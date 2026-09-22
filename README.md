@@ -4,8 +4,7 @@ The intention of this project is to create a full list of all gather node locati
 After this is largely complete, I will be making a version that can be imported into Legacy (Wynntils 1.12.2)
 
 Each POI will be a group of nodes, and inside the file, a list of the exact node coordinates will be commented in.
-## Hello!
-Hi, I'm Rescryan. I came apon this project when it had been unactive for largely half a year (Though the last actual edit was November 2024, it had been relatively inactive since June that year iirc). So, I decided to take the project and run the last few laps. I have been making edits and changes to it. I really hope you find it usefull for your proffesion needs! One last thing. In the materials section of this page, the Materials with an (R) after them means that I did those. OK, Cya and have a great rest of your day o/
+
 ***
 ## How can you load this ingame?
 
